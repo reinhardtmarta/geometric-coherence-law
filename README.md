@@ -1,4 +1,5 @@
-# ​Geometric Coherence Law (\phi Protocol) for Fault-Tolerant Quantum Computing (FTQC): Unifying Active Stabilization with Indefinite Coherence
+# ​Harmony-Driven Quantum Control
+Unifying Active Stabilization with Indefinite Coherence
 ​This repository introduces the Geometric Coherence Law—a novel principle for actively stabilizing quantum error correction (QEC) by managing correlated noise. We demonstrate that maximum stability is achieved not at minimum or maximum correlation, but at a specific Geometric Harmony Factor (\mathbf{\approx 0.695}), which minimizes the variance of QEC overhead.
 ​We prove that this active stabilization mechanism is the essential complement to passive protection protocols, showing how the Geometric Coherence Law maximizes the fidelity and longevity of the Multi-Commuting Subspace Projection (\text{MQIM}) method for Indefinite Coherence. This work is critical for achieving reliable, fault-tolerant quantum computing (FTQC).
 
