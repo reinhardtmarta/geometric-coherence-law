@@ -14,3 +14,4 @@ Coherence_Stability_Test.ipynb: Contains the Monte Carlo simulation code, which 
 Instructions: Click the Google Colab badge to run the notebook and instantly reproduce the Geometric Harmony Factor plot.
 
 ​Critically, we demonstrate the synergy between this active stabilization mechanism and the passive protection afforded by the Multiple Commuting-Subspace Projection (\text{MQIM}) protocol. By feeding the \text{MQIM} protocol with CZ-gates calibrated at \mathbf{0.695}, we show a necessary precondition for maximizing \text{MQIM}'s fidelity and achieving its goal of Indefinite Coherence. The Geometric Coherence Law provides the required calibration for robust, scalable FTQC architecture.
+https://doi.org/10.5281/zenodo.17761907
