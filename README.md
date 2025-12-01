@@ -13,6 +13,7 @@ Our primary objective is to develop low-level control software (driver/kernel) t
 | ![Build Status](https://img.shields.io/badge/Status-Prototype%20V2-orange) | ![License](https://img.shields.io/badge/License-MIT-blue.svg) | ![Language](https://img.shields.io/badge/Language-C/Assembly-red) |
 
 ---
+https://doi.org/10.5281/zenodo.17778472
 
 ## ⚙️ TEM-F Architecture Diagram
 
@@ -82,4 +83,3 @@ make all
 # Run the kernel on QEMU
 qemu-system-i386 -fda bin/InfiniteOS.img -no-reboot
 
-https://doi.org/10.5281/zenodo.17761907
